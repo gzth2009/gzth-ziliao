@@ -1,0 +1,36 @@
+# 通辉业主问答资料页 robots.txt
+User-agent: *
+Allow: /
+
+# 主流搜索引擎与AI爬虫（明确放行）
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+Sitemap: https://www.gzth-ziliao.com/sitemap.xml
